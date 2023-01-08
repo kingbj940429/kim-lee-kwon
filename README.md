@@ -21,3 +21,5 @@
 [카카오 레벨 1](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C301%2C300&levels=1)
 
 - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) 2023-01-01 
+- [1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) 2023-01-08
+- [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) 2023-01-08
