@@ -3,6 +3,9 @@
 
 언어는 원하는 걸로 각자 풀고, 만약 수행하지 않으면 <b>3000원</b>의 벌금을 내야함
 
+### 시간
+일요일 오전 10시
+
 ### push 하는 규칙
 아래와 같은 구조로 폴더를 만들어놓았는데 문제에 해당하는 폴더 밑에 kbj.py 처럼 영어 이니셜로 각자 push 하면 됨 
 
@@ -23,3 +26,4 @@
 - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) 2023-01-01 
 - [1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) 2023-01-08
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) 2023-01-08
+- [1차 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) 2023-01-08
