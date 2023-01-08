@@ -14,7 +14,7 @@
                 └── kbj.py
 ```
 
-## Questions
+## Solved
 
 ### Programmers
 
