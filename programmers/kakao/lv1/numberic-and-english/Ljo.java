@@ -2,7 +2,7 @@ package 프로그래머스.kakao;
 
 import java.util.Map;
 
-public class Solution {
+public class Ljo {
 
     public int solution(String s) {
         StringBuilder sb = new StringBuilder();
