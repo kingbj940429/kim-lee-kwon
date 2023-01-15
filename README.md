@@ -27,3 +27,6 @@
 - [1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) 2023-01-08
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) 2023-01-08
 - [1차 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) 2023-01-08
+- [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) 2023-01-15
+- [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) 2023-01-15
+- [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) 2023-01-15
