@@ -4,11 +4,7 @@ import java.util.ArrayList;
 import java.util.StringJoiner;
 
 // 실패율, https://school.programmers.co.kr/learn/courses/30/lessons/42889
-public class Solution3 {
-
-    public static void main(String[] args) {
-        solution(5, new int[] {2, 1, 2, 6, 2, 4, 3, 3});
-    }
+public class Ljo {
 
     static class Rate {
 
@@ -23,7 +19,7 @@ public class Solution3 {
     }
 
 
-    public static int[] solution(int N, int[] stages) {
+    public int[] solution(int N, int[] stages) {
         int[] answer = new int[N];
         int[] total = new int[N + 1];
         int[] clear = new int[N + 1];

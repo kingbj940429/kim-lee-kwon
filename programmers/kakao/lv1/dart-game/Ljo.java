@@ -5,13 +5,9 @@ import java.util.Set;
 import java.util.StringTokenizer;
 
 // 다트게임, https://school.programmers.co.kr/learn/courses/30/lessons/17682
-public class Solution4 {
+public class Ljo {
 
-    public static void main(String[] args) {
-        solution("1D2S#10S");
-    }
-
-    public static int solution(String dartResult) {
+    public int solution(String dartResult) {
         int answer = 0;
         int[] points = new int[3];
 
