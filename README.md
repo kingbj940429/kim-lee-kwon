@@ -1,7 +1,7 @@
 ## Desc
 일주일에 한번씩 코딩테스트 문제 풀기 <br>
 
-언어는 원하는 걸로 각자 풀고, 만약 수행하지 않으면 <b>3000원</b>의 벌금을 내야함
+언어는 원하는 걸로 각자 풀기
 
 ### 시간
 일요일 오전 10시
@@ -18,10 +18,14 @@
 ```
 
 ## 벌금
+중첩 가능 (불참 + 문제 안품 = 6000원)
+- 지각 : 1000원
+- 불참 : 3000원
+- 문제 안품 : 3000원
 
 | Name | Amount |
 |------|--------|
-| 권동욱  | 3000   |
+| 권동욱  | 0   |
 | 이주오  | 0      |
 | 김병준  | 0      |
 
@@ -41,5 +45,6 @@
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) 2023-01-15
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) 2023-01-29
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) 2023-01-29
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) 2023-01-29
 
 [카카오 레벨 2](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C301%2C300%2C37527&levels=2)
