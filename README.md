@@ -51,3 +51,36 @@
   - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 [카카오 레벨 2](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&partIds=37527%2C31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931&levels=2)
+- 2023-
+  - [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+  - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
+- 2023-
+  - [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
+  - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- 2023-
+  - [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+  - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+- 2023-
+  - [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+  - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- 2023-
+  - [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
+  - [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+- 2023-
+  - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+  - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+- 2023-
+  - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
+  - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
+- 2023-
+  - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+  - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- 2023-
+  - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+  - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+- 2023-
+  - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+  - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+- 2023-
+  - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+  - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
