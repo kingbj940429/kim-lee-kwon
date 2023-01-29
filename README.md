@@ -45,5 +45,6 @@
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) 2023-01-15
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) 2023-01-29
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) 2023-01-29
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) 2023-01-29
 
 [카카오 레벨 2](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C301%2C300%2C37527&levels=2)
