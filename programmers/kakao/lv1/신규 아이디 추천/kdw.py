@@ -1,10 +1,9 @@
+# caution : shallow copy
 def solution(new_id):
     step1 = new_id.lower()
 
-    step2, unavailable = [], set('~!@#$%^&*()=+[{]}:?,<>/')
-    for s in step1:
-        if s not in unavailable:
-            step2.append(s)
+    unavailable = set('~!@#$%^&*()=+[{]}:?,<>/')
+    step2 = [s for s in step1 if s not in unavailable]
 
     step3 = ['.']
     for s in step2:
