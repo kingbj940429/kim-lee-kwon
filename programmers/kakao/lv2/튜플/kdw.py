@@ -2,8 +2,8 @@ from collections import Counter
 
 
 def solution(s):
-    s = s.replace('{', '').replace('}', '').split(',')
-    return [int(x[0]) for x in sorted(Counter(s).items(),
+    nums = s.replace('{', '').replace('}', '').split(',')
+    return [int(x[0]) for x in sorted(Counter(nums).items(),
                                       key=lambda x: x[1],
                                       reverse=True)]
 
