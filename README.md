@@ -24,9 +24,9 @@
 - 문제 안품 : 3000원
 
 | Name   | Amount |
-| ------ | ------ |
+| ------ |--------|
 | 권동욱 | 0      |
-| 이주오 | 0      |
+| 이주오 | 6,000  |
 | 김병준 | 0      |
 
 
@@ -51,7 +51,7 @@
   - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 [카카오 레벨 2](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&partIds=37527%2C31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931&levels=2)
-- 2023-
+- 2023-02-06
   - [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
   - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 - 2023-
