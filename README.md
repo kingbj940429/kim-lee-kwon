@@ -55,15 +55,15 @@
 - 2023-02-05
   - [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
   - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
-- 2023-
+- 2023-02-12
   - [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
   - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - 2023-
   - [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
   - [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 - 2023-
-  - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
   - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+  - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 - 2023-
   - [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
   - [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
