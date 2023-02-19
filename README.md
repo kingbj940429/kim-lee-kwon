@@ -71,8 +71,8 @@
   - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
   - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
 - 2023-
-  - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
   - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
+  - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
 - 2023-
   - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
   - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
