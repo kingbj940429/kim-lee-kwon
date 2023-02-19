@@ -30,7 +30,6 @@ def solution(cacheSize, cities):
 
     return answer
 
-
 if __name__=="__main__":
     cacheSize = 3
     cities = ["Jeju", "Pangyo", "Seoul", "Jeju", "Pangyo", "Seoul", "Jeju", "Pangyo", "Seoul"]
