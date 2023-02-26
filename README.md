@@ -25,7 +25,7 @@
 - 탈주 : 100,000원 
 
 | Name   | Amount |
-| ------ |--------|
+| ------ | ------ |
 | 권동욱 | 0      |
 | 이주오 | 6,000  |
 | 김병준 | 0      |
@@ -33,55 +33,129 @@
 
 ## Solved
 
-### Programmers
+### [programmers/kakao](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&partIds=37527%2C31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931)
 
-[카카오 레벨 1](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&partIds=37527%2C31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931&levels=1)
-- 2023-01-01
-  - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
-- 2023-01-08
-  - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
-  - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
-  - [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
-- 2023-01-15
-  - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
-  - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-  - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
-- 2023-01-29
-  - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
-  - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
-  - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
-
-[카카오 레벨 2](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&partIds=37527%2C31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931&levels=2)
-- 2023-02-05
-  - [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
-  - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
-- 2023-02-12
-  - [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
-  - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
-- 2023-02-19
-  - [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
-  - [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
-- 2023-
-  - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
-  - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
-- 2023-
-  - [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
-  - [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
-- 2023-
-  - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
-  - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
-- 2023-
-  - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
-  - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
-- 2023-
-  - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
-  - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
-- 2023-
-  - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
-  - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
-- 2023-
-  - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
-  - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
-- 2023-
-  - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
-  - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+<table>
+    <thead>
+        <tr>
+            <th>Difficulty</th>
+            <th>Problem</th>
+            <th>Deadline</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="10">lv1</td>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a></td>
+            <td>2023-01-08</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">[1차] 비밀지도</a></td>
+            <td rowspan="3">2023-01-15</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">실패율</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">[1차] 다트 게임</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a></td>
+            <td rowspan="3">2023-01-29</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">신규 아이디 추천</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666">성격 유형 검사하기</a></td>
+            <td rowspan="3">2023-02-05</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">신고 결과 받기</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150370">개인정보 수집 유효기간</a></td>
+        </tr>
+        <tr>
+            <td rowspan="22">lv2</td>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">[1차] 캐시</a></td>
+            <td rowspan="2">2023-02-12</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">튜플</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">[1차] 뉴스 클러스터링</a></td>
+            <td rowspan="2">2023-02-19</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17684">[3차] 압축</a></td>
+            <td rowspan="2">2023-02-26</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17687">[3차] n진수 게임</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">주차 요금 계산</a></td>
+            <td rowspan="2">2023-03-05</td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679">[1차] 프렌즈4블록</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">[3차] 파일명 정렬</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">두 큐 합 같게 만들기</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17683">[3차] 방금그곡</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">양궁대회</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">이모티콘 할인행사</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a></td>
+        </tr>
+    </tbody>
+</table>
