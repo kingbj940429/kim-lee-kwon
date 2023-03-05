@@ -109,11 +109,11 @@
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a></td>
         </tr>
         <tr>
-            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679">[1차] 프렌즈4블록</a></td>
-            <td rowspan="2"></td>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">[3차] 파일명 정렬</a></td>
+            <td rowspan="2">2023-03-12</td>
         </tr>
         <tr>
-            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">[3차] 파일명 정렬</a></td>
+            <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679">[1차] 프렌즈4블록</a></td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a></td>
