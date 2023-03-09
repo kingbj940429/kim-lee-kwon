@@ -12,57 +12,18 @@
 
 import re
 
+# def solution(files):
+#     a = sorted(files, key=lambda file : int(re.findall('\d+', file)[0]))
+#     b = sorted(a, key=lambda file : re.split('\d+', file.lower())[0])
+#     return b
+
 def solution(files):
-    a = sorted(files, key=lambda file : int(re.findall('\d+', file)[0]))
-    b = sorted(a, key=lambda file : re.split('\d+', file.lower())[0])
-    return b
+    return sorted(files, key=lambda file: (find_head_and_number(file)))
 
-# solution 2
-def solution(files):
-    def key_function(fn):
-        head,number,tail = re.match(r'([a-z-. ]+)(\d{,5})(.*)',fn).groups()
-        return [head,int(number)]
+def find_head_and_number(file):
+    head, number, tail = re.match("([a-zA-Z-. ]+)(\d{1,5})(.*)", file).groups()
 
-    return sorted(files, key = lambda x: key_function(x.lower()))
-
-# my solution
-def solution(files):
-    files_divided = split_files(files)
-    print(files_divided)
-    files_sorted = sorted(files_divided, key=lambda x: (x[0].lower(), int(x[1])))
-
-    return ["".join(file) for file in files_sorted]
-
-def split_files(files):
-    result = []
-
-    for file in files:
-        head_flag, number_flag = False, False
-        head, number, tail = "", "", ""
-
-        for c in file:
-            # HEAD
-            if not c.isdigit() and not head_flag:
-                head += c
-
-            # NUMBER
-            elif c.isdigit() and not number_flag:
-                head_flag = True
-                number += c
-
-                if len(number) >= 5:
-                    number_flag = True
-
-            # TAIL
-            else:
-                number_flag = True
-                tail += c
-
-
-        result.append([head, number, tail])
-
-    return result
-
+    return [head.lower(), int(number)]
 
 if __name__=="__main__":
     #files = ["img12.png", "img10.png", "img02.png", "img1.png", "IMG01.GIF", "img2.JPG"]
