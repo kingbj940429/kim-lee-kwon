@@ -117,7 +117,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-03-19</td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a></td>
