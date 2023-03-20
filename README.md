@@ -124,7 +124,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">두 큐 합 같게 만들기</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-03-26</td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17683">[3차] 방금그곡</a></td>
