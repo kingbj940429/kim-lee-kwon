@@ -131,7 +131,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-04-09</td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a></td>
