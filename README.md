@@ -138,7 +138,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-04-16</td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a></td>
