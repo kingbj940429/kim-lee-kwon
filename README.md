@@ -145,7 +145,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-04-23</td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">양궁대회</a></td>
