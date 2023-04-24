@@ -152,7 +152,7 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">이모티콘 할인행사</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-04-30</td>
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a></td>
