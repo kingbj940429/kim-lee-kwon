@@ -19,19 +19,23 @@
 
 ## 벌금
 중첩 가능 (불참 + 문제 안품 = 6000원)
-- 지각 : 1000원
-- 불참 : 3000원
-- 문제 안품 : 3000원
-- 탈주 : 100,000원 
+- 지각 : 1,000원
+- 불참 : 3,000원
+- 문제 안품 : 5,000원
+- 탈주 : 100,000원
 
 | Name   | Amount |
-| ------ |--------|
+| ------ | ------ |
 | 권동욱 | 0      |
-| 이주오 | 51,000 |
-| 김병준 | 12,000 |
+| 이주오 | 0      |
+| 김병준 | 0      |
 
 
 ## Solved
+
+
+<details>
+<summary>programmers</summary>
 
 ### [programmers/kakao](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&partIds=37527%2C31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931)
 
@@ -156,6 +160,30 @@
         </tr>
         <tr>
             <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+
+### [leetcode](https://leetcode.com/problemset/all/?listId=79h8rn6&page=1&difficulty=EASY)
+
+<table>
+    <thead>
+        <tr>
+            <th>Difficulty</th>
+            <th>Problem</th>
+            <th>Deadline</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">easy</td>
+            <td><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></td>
+            <td rowspan="2">2023-05-07</td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></td>
         </tr>
     </tbody>
 </table>
