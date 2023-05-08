@@ -178,12 +178,82 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">easy</td>
+            <td rowspan="22">easy</td>
             <td><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></td>
             <td rowspan="2">2023-05-07</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix</a></td>
+            <td rowspan="2">2023-05-14</td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/valid-parentheses/">20. Valid Parentheses</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/search-insert-position/">35. Search Insert Position</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/climbing-stairs/">70. Climbing Stairs</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">94. Binary Tree Inorder Traversal</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/symmetric-tree/">101. Symmetric Tree</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">104. Maximum Depth of Binary Tree</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/pascals-triangle/">118. Pascal's Triangle</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/single-number/">136. Single Number</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/linked-list-cycle/">141. Linked List Cycle</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">160. Intersection of Two Linked Lists</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/majority-element/">169. Majority Element</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/palindrome-linked-list/">234. Palindrome Linked List</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">543. Diameter of Binary Tree</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/binary-search/">704. Binary Search</a></td>
         </tr>
     </tbody>
 </table>
