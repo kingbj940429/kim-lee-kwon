@@ -194,7 +194,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-05-21</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/search-insert-position/">35. Search Insert Position</a></td>
