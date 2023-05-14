@@ -1,6 +1,3 @@
-from typing import List
-
-
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         prefix = 0
@@ -9,8 +6,3 @@ class Solution:
                 break
             prefix += 1
         return strs[0][:prefix] if prefix else ''
-
-
-solution = Solution()
-print(solution.longestCommonPrefix(strs=["flower", "flow", "flight"]))  # "fl"
-print(solution.longestCommonPrefix(strs=["dog", "racecar", "car"]))  # ""

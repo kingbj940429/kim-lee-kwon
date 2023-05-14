@@ -17,9 +17,3 @@ class Solution:
                 answer += curr
             prev = curr
         return answer
-
-
-solution = Solution()
-print(solution.romanToInt(s="III"))  # 3
-print(solution.romanToInt(s="LVIII"))  # 58
-print(solution.romanToInt(s="MCMXCIV"))  # 1994

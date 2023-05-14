@@ -14,9 +14,3 @@ class Solution:
             else:
                 stack.append(bracket)
         return not stack
-
-
-solution = Solution()
-print(solution.isValid(s="()"))  # true
-print(solution.isValid(s="()[]{}"))  # true
-print(solution.isValid(s="(]"))  # false
