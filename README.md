@@ -201,7 +201,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/climbing-stairs/">70. Climbing Stairs</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-05-28</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">94. Binary Tree Inorder Traversal</a></td>
