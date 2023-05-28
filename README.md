@@ -208,7 +208,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/symmetric-tree/">101. Symmetric Tree</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-06-04</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">104. Maximum Depth of Binary Tree</a></td>
