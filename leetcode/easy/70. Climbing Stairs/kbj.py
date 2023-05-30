@@ -1,25 +1,15 @@
-from itertools import product
+from collections import defaultdict
+
+memo = defaultdict(int)
 
 class Solution:
-    def climbStairs(self, n) -> int:
-        result = 0
-        A = [1,2]
+    def climbStairs(self, n: int) -> int:
+        if n == 1:
+            return 1
+        if n == 2:
+            return 2
 
-        for i in range(n+1):
-            for comb in list(product(A, repeat = i)):
-                if sum(comb) == n:
-                    print(comb)
-                    result += 1
+        if n not in memo:
+            memo[n] = self.climbStairs(n-1) + self.climbStairs(n-2)
 
-        return result
-
-
-if __name__=="__main__":
-    n = 5
-    solution = Solution()
-    result = solution.climbStairs(n)
-
-    print(result)
-
-
-#### ???? 뭐지 이문제
+        return memo[n]
