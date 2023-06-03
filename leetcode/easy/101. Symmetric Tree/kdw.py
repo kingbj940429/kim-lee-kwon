@@ -24,5 +24,5 @@ class Solution:
                     return False
             return True
 
-        # return not root or checkRecursively(root.left, root.right)
-        return not root or checkIteratively(root.left, root.right)
+        # return checkRecursively(root, root)
+        return checkIteratively(root, root)
