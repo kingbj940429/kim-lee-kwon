@@ -215,7 +215,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/pascals-triangle/">118. Pascal's Triangle</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-06-11</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock</a></td>
