@@ -222,7 +222,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/single-number/">136. Single Number</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-06-18</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/linked-list-cycle/">141. Linked List Cycle</a></td>
