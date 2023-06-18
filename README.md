@@ -229,7 +229,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">160. Intersection of Two Linked Lists</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-06-25</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/majority-element/">169. Majority Element</a></td>
