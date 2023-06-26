@@ -236,21 +236,21 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-07-02</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree</a></td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/palindrome-linked-list/">234. Palindrome Linked List</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-07-09</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a></td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">543. Diameter of Binary Tree</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-07-16</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/binary-search/">704. Binary Search</a></td>
