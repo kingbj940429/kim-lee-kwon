@@ -25,10 +25,10 @@
 - 탈주 : 200,000원
 
 | Name   | Amount |
-| ------ |--------|
+| ------ | ------ |
 | 권동욱 | 0      |
-| 이주오 | 30000  |
-| 김병준 | 5000   |
+| 이주오 | 30,000 |
+| 김병준 | 10,000 |
 
 
 ## Solved
@@ -166,7 +166,7 @@
 
 </details>
 
-### [leetcode](https://leetcode.com/problemset/all/?listId=79h8rn6&page=1&difficulty=EASY)
+### [leetcode](https://leetcode.com/problemset/all/?listId=79h8rn6&page=1)
 
 <table>
     <thead>
@@ -254,6 +254,238 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/binary-search/">704. Binary Search</a></td>
+        </tr>
+        <tr>
+            <td rowspan="66">medium</td>
+            <td><a href="https://leetcode.com/problems/add-two-numbers/">2. Add Two Numbers</a></td>
+            <td rowspan="2">2023-07-30</td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">5. Longest Palindromic Substring</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/3sum/">15. 3Sum</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">17. Letter Combinations of a Phone Number</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">19. Remove Nth Node From End of List</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/generate-parentheses/">22. Generate Parentheses</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">24. Swap Nodes in Pairs</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/next-permutation/">31. Next Permutation</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">33. Search in Rotated Sorted Array</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/combination-sum/">39. Combination Sum</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/jump-game-ii/">45. Jump Game II</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/rotate-image/">48. Rotate Image</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/group-anagrams/">49. Group Anagrams</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/maximum-subarray/">53. Maximum Subarray</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/spiral-matrix/">54. Spiral Matrix</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/jump-game/">55. Jump Game</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/merge-intervals/">56. Merge Intervals</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/unique-paths/">62. Unique Paths</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/minimum-path-sum/">64. Minimum Path Sum</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/edit-distance/">72. Edit Distance</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/set-matrix-zeroes/">73. Set Matrix Zeroes</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">74. Search a 2D Matrix</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/sort-colors/">75. Sort Colors</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/subsets/">78. Subsets</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/word-search/">79. Word Search</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">98. Validate Binary Search Tree</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102. Binary Tree Level Order Traversal</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">105. Construct Binary Tree from Preorder and Inorder Traversal</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">114. Flatten Binary Tree to Linked List</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/palindrome-partitioning/">131. Palindrome Partitioning</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">138. Copy List with Random Pointer</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/word-break/">139. Word Break</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">142. Linked List Cycle II</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/lru-cache/">146. LRU Cache</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/sort-list/">148. Sort List</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/maximum-product-subarray/">152. Maximum Product Subarray</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">153. Find Minimum in Rotated Sorted Array</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/min-stack/">155. Min Stack</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/house-robber/">198. House Robber</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/binary-tree-right-side-view/">199. Binary Tree Right Side View</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/number-of-islands/">200. Number of Islands</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/course-schedule/">207. Course Schedule</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">208. Implement Trie (Prefix Tree)</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">230. Kth Smallest Element in a BST</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/">236. Lowest Common Ancestor of a Binary Tree</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/product-of-array-except-self/">238. Product of Array Except Self</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">240. Search a 2D Matrix II</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">287. Find the Duplicate Number</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">300. Longest Increasing Subsequence</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/coin-change/">322. Coin Change</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/top-k-frequent-elements/">347. Top K Frequent Elements</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/decode-string/">394. Decode String</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/partition-equal-subset-sum/">416. Partition Equal Subset Sum</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">438. Find All Anagrams in a String</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/subarray-sum-equals-k/">560. Subarray Sum Equals K</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/permutation-in-string/">567. Permutation in String</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/daily-temperatures/">739. Daily Temperatures</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/rotting-oranges/">994. Rotting Oranges</a></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/longest-common-subsequence/">1143. Longest Common Subsequence</a></td>
         </tr>
     </tbody>
 </table>
