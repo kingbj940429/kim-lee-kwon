@@ -272,7 +272,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/3sum/">15. 3Sum</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-08-13</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">17. Letter Combinations of a Phone Number</a></td>
