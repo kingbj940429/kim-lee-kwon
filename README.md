@@ -279,7 +279,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">19. Remove Nth Node From End of List</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-08-20</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/generate-parentheses/">22. Generate Parentheses</a></td>
