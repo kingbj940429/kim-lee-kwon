@@ -286,7 +286,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">24. Swap Nodes in Pairs</a></td>
-            <td rowspan="2">2023-08-20</td>
+            <td rowspan="2">2023-08-27</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/next-permutation/">31. Next Permutation</a></td>
