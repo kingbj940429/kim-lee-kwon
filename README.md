@@ -4,7 +4,7 @@
 언어는 원하는 걸로 각자 풀기
 
 ### 시간
-일요일 오후 10시
+월요일 오후 10시
 
 ### push 하는 규칙
 아래와 같은 구조로 폴더를 만들어놓았는데 문제에 해당하는 폴더 밑에 kbj.py 처럼 영어 이니셜로 각자 push 하면 됨
@@ -286,7 +286,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">24. Swap Nodes in Pairs</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-08-20</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/next-permutation/">31. Next Permutation</a></td>
