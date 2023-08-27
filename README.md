@@ -293,7 +293,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">33. Search in Rotated Sorted Array</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-09-03</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a></td>
