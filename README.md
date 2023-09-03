@@ -300,7 +300,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/combination-sum/">39. Combination Sum</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-09-10</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/jump-game-ii/">45. Jump Game II</a></td>
