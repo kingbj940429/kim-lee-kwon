@@ -307,7 +307,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-09-17</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/rotate-image/">48. Rotate Image</a></td>
