@@ -314,7 +314,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/group-anagrams/">49. Group Anagrams</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-09-24</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/maximum-subarray/">53. Maximum Subarray</a></td>
