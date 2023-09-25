@@ -321,7 +321,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/spiral-matrix/">54. Spiral Matrix</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-10-01</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/jump-game/">55. Jump Game</a></td>
