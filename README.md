@@ -328,7 +328,7 @@
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/merge-intervals/">56. Merge Intervals</a></td>
-            <td rowspan="2"></td>
+            <td rowspan="2">2023-10-08</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/unique-paths/">62. Unique Paths</a></td>
